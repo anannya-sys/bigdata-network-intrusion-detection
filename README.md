@@ -1,5 +1,5 @@
 # IDS Project — Real-Time Intrusion Detection, Prevention & Avoidance
-## Big Data Analytics (BITE411L) | VIT Vellore
+## Big Data Analytics 
 
 ---
 
